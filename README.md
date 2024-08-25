@@ -1,4 +1,13 @@
 ## 이미지 크롤링
+### 레포지토리 clone 
+```bash
+# 레포지토리 clone 
+git clone https://github.com/byungchan0725/Image_Crawling.git
+
+# 이동
+cd Image_Crawling
+```
+
 ### 사용 방법   
 - 가상환경  
 - Docker 
