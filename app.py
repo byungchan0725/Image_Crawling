@@ -60,7 +60,7 @@ if st.session_state.start:
                 검색어: :blue-background[{search_word}]에 해당하는 이미지를 :blue-background[{total_images}]개 찾았습니다.  
 
                 - 이미지를 다운로드 하실려면 아래 버튼을 눌러주세요.  
-                - 이미지는 :blue-background[홈 디렉토리 아래] `<검색어>/<이미지_1>` 형태로 저장이 됩니다.
+                - 이미지는 :blue-background[홈 디렉토리 아래] `<검색어>/<검색어_0>` 형태로 저장이 됩니다.
                 """)
     
     if st.button("다운로드"): 
